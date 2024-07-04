@@ -31,7 +31,8 @@ subscribe_urls = [
    
    "https://raw.githubusercontent.com/skddyj/iptv/main/IPTV.m3u",
     "https://raw.githubusercontent.com/BurningC4/Chinese-IPTV/master/TV-IPV4.m3u",
-    "https://mirror.ghproxy.com/raw.githubusercontent.com/joevess/IPTV/main/iptv.m3u8",
+    "https://m3u.ibert.me/txt/o_cn.txt",
+"https://m3u.ibert.me/txt/j_iptv.txt"
 
 ]
 open_multicast = True
