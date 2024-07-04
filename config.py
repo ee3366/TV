@@ -31,13 +31,7 @@ subscribe_urls = [
     "http://我不是.肥猫.live/TV/tvzb.txt",
    "https://raw.githubusercontent.com/zwc456baby/iptv_alive/master/live.txt",
     "http://home.jundie.top:81/Cat/tv/live.txt",
-    "https://m3u.ibert.me/txt/fmml_dv6.txt",
-    "https://m3u.ibert.me/txt/o_cn.txt",
-    "https://m3u.ibert.me/txt/j_iptv.txt",
-    "https://raw.githubusercontent.com/ssili126/tv/main/itvlist.txt"
-    "https://m3u.ibert.me/txt/fmml_dv6.txt",
-    "https://m3u.ibert.me/txt/o_cn.txt",
-    "https://m3u.ibert.me/txt/j_iptv.txt",
+
 ]
 open_multicast = True
 region_list = ["all"]
