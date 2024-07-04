@@ -27,8 +27,13 @@ domain_blacklist = ["epg.pw"]
 url_keywords_blacklist = []
 open_subscribe = True
 subscribe_urls = [
-    "https://cdn.jsdelivr.net/gh/ssili126/tv@main/itvlist.txt",
-   
+     "https://www.huichunniao.cn/xh/lib/live.txt",
+    "http://我不是.肥猫.live/TV/tvzb.txt",
+   "https://raw.githubusercontent.com/zwc456baby/iptv_alive/master/live.txt",
+    "http://home.jundie.top:81/Cat/tv/live.txt",
+
+    "https://raw.githubusercontent.com/ssili126/tv/main/itvlist.txt"
+    "https://m3u.ibert.me/txt/fmml_dv6.txt",
    "https://raw.githubusercontent.com/skddyj/iptv/main/IPTV.m3u",
     "https://raw.githubusercontent.com/BurningC4/Chinese-IPTV/master/TV-IPV4.m3u",
     "https://m3u.ibert.me/txt/o_cn.txt",
