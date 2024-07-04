@@ -28,7 +28,7 @@ url_keywords_blacklist = []
 open_subscribe = True
 subscribe_urls = [
     "https://cdn.jsdelivr.net/gh/ssili126/tv@main/itvlist.txt",
-    "http://home.jundie.top:81/Cat/tv/live.txt",
+   
    "https://raw.githubusercontent.com/skddyj/iptv/main/IPTV.m3u",
     "https://raw.githubusercontent.com/BurningC4/Chinese-IPTV/master/TV-IPV4.m3u",
     "https://mirror.ghproxy.com/raw.githubusercontent.com/joevess/IPTV/main/iptv.m3u8",
