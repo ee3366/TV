@@ -28,8 +28,6 @@ url_keywords_blacklist = []
 open_subscribe = True
 subscribe_urls = [
     "https://www.huichunniao.cn/xh/lib/live.txt",
-    "http://我不是.肥猫.live/TV/tvzb.txt",
-   "https://raw.githubusercontent.com/zwc456baby/iptv_alive/master/live.txt",
     "http://home.jundie.top:81/Cat/tv/live.txt",
 
 ]
