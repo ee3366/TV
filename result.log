@@ -1,183 +1,192 @@
-Name: 内蒙卫视, URL: http://58.220.219.14:9901/tsfile/live/0114_1.m3u8?key=txiptv, Date: 06-18-2024, Resolution: 768x576, Response Time: 1000ms
-Name: 卡酷少儿, URL: https://live.goodiptv.club/api/bestv.php?id=kkse8m/8000000, Date: None, Resolution: None, Response Time: 6503ms
-Name: 卡酷少儿, URL: https://live.goodiptv.club/api/bestv.php?id=kkse8m/8000000, Date: None, Resolution: None, Response Time: 6546ms
-Name: 北京卫视, URL: http://124.128.73.58:9901/tsfile/live/0122_1.m3u8, Date: None, Resolution: None, Response Time: 1415ms
-Name: 北京卫视, URL: http://222.240.82.92:9901/tsfile/live/0122_1.m3u8, Date: 03-20-2023, Resolution: None, Response Time: 1456ms
-Name: 北京卫视, URL: http://222.240.82.92:9901/tsfile/live/0122_1.m3u8, Date: 03-20-2023, Resolution: None, Response Time: 1468ms
-Name: 北京卫视, URL: https://live.goodiptv.club/api/bestv.php?id=bjwshd8m/8000000, Date: None, Resolution: None, Response Time: 6508ms
-Name: 北京卫视, URL: https://live.goodiptv.club/api/bestv.php?id=bjwshd8m/8000000, Date: None, Resolution: None, Response Time: 6541ms
-Name: 安徽卫视, URL: http://115.149.139.141:10001/tsfile/live/1025_1.m3u8, Date: 03-20-2023, Resolution: None, Response Time: 1404ms
-Name: 安徽卫视, URL: http://115.149.139.141:10001/tsfile/live/1025_1.m3u8, Date: 03-20-2023, Resolution: None, Response Time: 1408ms
-Name: 安徽卫视, URL: http://115.149.139.141:10001/tsfile/live/1025_1.m3u8, Date: 03-20-2023, Resolution: None, Response Time: 1414ms
-Name: 安徽卫视, URL: https://live.goodiptv.club/api/bestv.php?id=ahwshd8m/8000000, Date: None, Resolution: None, Response Time: 6077ms
-Name: 安徽卫视, URL: https://live.goodiptv.club/api/bestv.php?id=ahwshd8m/8000000, Date: None, Resolution: None, Response Time: 6535ms
-Name: CCTV17, URL: https://live.goodiptv.club/api/bestv.php?id=cctv17hd8m/8000000, Date: None, Resolution: None, Response Time: 6073ms
-Name: CCTV17, URL: https://live.v1.mk/api/bestv.php?id=cctv17hd8m/8000000, Date: 03-21-2023, Resolution: None, Response Time: 6324ms
-Name: CCTV17, URL: https://live.v1.mk/api/bestv.php?id=cctv17hd8m/8000000, Date: 03-21-2023, Resolution: None, Response Time: 6344ms
-Name: CCTV17, URL: https://live.v1.mk/api/bestv.php?id=cctv17hd8m/8000000, Date: 03-21-2023, Resolution: None, Response Time: 6362ms
-Name: CCTV17, URL: https://live.goodiptv.club/api/bestv.php?id=cctv17hd8m/8000000, Date: None, Resolution: None, Response Time: 6526ms
-Name: CCTV9, URL: https://live.goodiptv.club/api/bestv.php?id=cctv9hd8m/8000000, Date: None, Resolution: None, Response Time: 4473ms
-Name: CCTV9, URL: https://live.goodiptv.club/api/bestv.php?id=cctv9hd8m/8000000, Date: None, Resolution: None, Response Time: 4513ms
-Name: CCTV16, URL: http://59.44.102.18:8888/newlive/live/hls/18/live.m3u8, Date: 07-29-2024, Resolution: 1920x1080, Response Time: 1506ms
-Name: CCTV16, URL: http://116.162.6.192/61.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226095/index.m3u8, Date: 08-11-2024, Resolution: 1920x1080, Response Time: 2407ms
-Name: CCTV16, URL: http://123.189.36.155:9901/tsfile/live/1027_1.m3u8, Date: None, Resolution: None, Response Time: 1555ms
-Name: CCTV16, URL: https://api.olelive.com/dis/live/CCTV16HD/hls.m3u8, Date: 06-11-2024, Resolution: None, Response Time: 4845ms
-Name: CCTV16, URL: https://tv.smart-chat.net/iptv.php?id=102100&num=1, Date: 01-03-2024, Resolution: None, Response Time: 4960ms
-Name: CCTV16, URL: http://cfss.cc/api/ysp/cctv16.m3u8, Date: 12-27-2023, Resolution: None, Response Time: 5401ms
-Name: CCTV16, URL: https://live.goodiptv.club/api/bestv.php?id=cctv16hd8m/8000000, Date: None, Resolution: None, Response Time: 5760ms
-Name: CCTV16, URL: https://live.goodiptv.club/api/bestv.php?id=cctv16hd8m/8000000, Date: None, Resolution: None, Response Time: 5788ms
-Name: CCTV16, URL: https://live.goodiptv.club/api/bestv.php?id=cctv16hd8m/8000000, Date: 12-09-2023, Resolution: None, Response Time: 6146ms
-Name: CCTV16, URL: http://gmxw.7766.org:808/hls/169/index.m3u8, Date: 11-03-2023, Resolution: None, Response Time: 6620ms
-Name: CCTV8, URL: https://live.v1.mk/api/ghyx.php?id=CCTV8HD_6000, Date: 03-21-2023, Resolution: None, Response Time: 4282ms
-Name: CCTV8, URL: https://live.v1.mk/api/ghyx.php?id=CCTV8HD_6000, Date: 03-21-2023, Resolution: None, Response Time: 4303ms
-Name: CCTV8, URL: https://live.v1.mk/api/ghyx.php?id=CCTV8HD_6000, Date: 03-21-2023, Resolution: None, Response Time: 4337ms
-Name: CCTV8, URL: https://live.goodiptv.club/api/bestv.php?id=cctv8hd8m/8000000, Date: None, Resolution: None, Response Time: 4442ms
-Name: CCTV8, URL: https://live.goodiptv.club/api/bestv.php?id=cctv8hd8m/8000000, Date: None, Resolution: None, Response Time: 4446ms
-Name: CCTV15, URL: https://live.goodiptv.club/api/bestv.php?id=cctv15hd8m/8000000, Date: None, Resolution: None, Response Time: 5737ms
-Name: CCTV15, URL: https://live.goodiptv.club/api/bestv.php?id=cctv15hd8m/8000000, Date: None, Resolution: None, Response Time: 5748ms
-Name: CCTV3, URL: https://live.goodiptv.club/api/bestv.php?id=cctv38m/8000000, Date: None, Resolution: None, Response Time: 3865ms
-Name: CCTV3, URL: https://live.goodiptv.club/api/bestv.php?id=cctv38m/8000000, Date: None, Resolution: None, Response Time: 3897ms
-Name: CCTV14, URL: https://live.goodiptv.club/api/bestv.php?id=cctvsehd8m/8000000, Date: None, Resolution: None, Response Time: 5680ms
-Name: CCTV14, URL: https://live.goodiptv.club/api/bestv.php?id=cctvsehd8m/8000000, Date: None, Resolution: None, Response Time: 5730ms
-Name: 广西卫视, URL: http://171.107.72.19:4000/udp/239.81.0.107:4056, Date: 07-24-2024, Resolution: 1920x1080, Response Time: 1370ms
-Name: 广西卫视, URL: http://xyt.186738613.xyz/lngd.php?id=116&Cf.m3u8, Date: 08-11-2024, Resolution: 1920x1080, Response Time: 7024ms
-Name: 广西卫视, URL: http://www.dsmcloud.top:8888/udp/239.81.0.107:4056, Date: 07-27-2024, Resolution: 1920x1080, Response Time: 7432ms
-Name: 广西卫视, URL: http://36.32.174.67:60080/newlive/live/hls/38/live.m3u8, Date: 07-17-2024, Resolution: None, Response Time: 1195ms
-Name: 广西卫视, URL: https://live.goodiptv.club/api/bestv.php?id=gxwshd8m/8000000, Date: None, Resolution: None, Response Time: 7349ms
-Name: 广西卫视, URL: https://live.goodiptv.club/api/bestv.php?id=gxwshd8m/8000000, Date: None, Resolution: None, Response Time: 7354ms
-Name: 广西卫视, URL: http://metatvpro.xyz:25461/W1045/4329/420, Date: 07-30-2024, Resolution: None, Response Time: 7811ms
-Name: CCTV7, URL: https://live.goodiptv.club/api/bestv.php?id=cctv7hd8m/8000000, Date: None, Resolution: None, Response Time: 4407ms
-Name: CCTV7, URL: https://live.goodiptv.club/api/bestv.php?id=cctv7hd8m/8000000, Date: None, Resolution: None, Response Time: 4462ms
-Name: 深圳卫视, URL: https://live.goodiptv.club/api/bestv.php?id=szwshd8m/8000000, Date: None, Resolution: None, Response Time: 7141ms
-Name: 深圳卫视, URL: https://live.goodiptv.club/api/bestv.php?id=szwshd8m/8000000, Date: None, Resolution: None, Response Time: 7203ms
-Name: CCTV13, URL: https://live.goodiptv.club/api/bestv.php?id=cctv13xwhd8m/8000000, Date: None, Resolution: None, Response Time: 5506ms
-Name: CCTV13, URL: https://live.goodiptv.club/api/bestv.php?id=cctv13xwhd8m/8000000, Date: None, Resolution: None, Response Time: 5527ms
-Name: 广东卫视, URL: http://124.94.193.136:9902/tsfile/live/0125_1.m3u8, Date: None, Resolution: None, Response Time: 1274ms
-Name: 广东卫视, URL: https://live.goodiptv.club/api/bestv.php?id=gdwshd8m/8000000, Date: None, Resolution: None, Response Time: 7152ms
-Name: 广东卫视, URL: https://live.goodiptv.club/api/bestv.php?id=gdwshd8m/8000000, Date: None, Resolution: None, Response Time: 7155ms
-Name: CCTV6, URL: http://202.100.46.58:9901/tsfile/live/1005_1.m3u8, Date: None, Resolution: None, Response Time: 1702ms
-Name: CCTV6, URL: https://live.goodiptv.club/api/bestv.php?id=cctv6hd8m/8000000, Date: None, Resolution: None, Response Time: 3866ms
-Name: CCTV6, URL: https://live.v1.mk/api/bestv.php?id=cctv6hd8m/8000000, Date: 03-21-2023, Resolution: None, Response Time: 4262ms
-Name: CCTV6, URL: https://live.v1.mk/api/bestv.php?id=cctv6hd8m/8000000, Date: 03-21-2023, Resolution: None, Response Time: 4264ms
-Name: CCTV6, URL: https://live.v1.mk/api/bestv.php?id=cctv6hd8m/8000000, Date: 03-21-2023, Resolution: None, Response Time: 4267ms
-Name: CCTV6, URL: https://live.goodiptv.club/api/bestv.php?id=cctv6hd8m/8000000, Date: None, Resolution: None, Response Time: 4386ms
-Name: 甘肃卫视, URL: http://202.100.46.58:9901/tsfile/live/1035_1.m3u8, Date: None, Resolution: None, Response Time: 1289ms
-Name: 甘肃卫视, URL: http://222.240.82.92:9901/tsfile/live/0141_1.m3u8, Date: 03-20-2023, Resolution: None, Response Time: 1330ms
-Name: 甘肃卫视, URL: http://222.240.82.92:9901/tsfile/live/0141_1.m3u8, Date: 03-20-2023, Resolution: None, Response Time: 1335ms
-Name: 甘肃卫视, URL: http://222.240.82.92:9901/tsfile/live/0141_1.m3u8, Date: 03-20-2023, Resolution: None, Response Time: 1339ms
-Name: 甘肃卫视, URL: https://live.goodiptv.club/api/bestv.php?id=gswshd8m/8000000, Date: None, Resolution: None, Response Time: 7209ms
-Name: 甘肃卫视, URL: https://live.goodiptv.club/api/bestv.php?id=gswshd8m/8000000, Date: None, Resolution: None, Response Time: 7221ms
-Name: CCTV12, URL: https://live.goodiptv.club/api/bestv.php?id=cctv12hd8m/8000000, Date: None, Resolution: None, Response Time: 5392ms
-Name: CCTV12, URL: https://live.goodiptv.club/api/bestv.php?id=cctv12hd8m/8000000, Date: None, Resolution: None, Response Time: 5392ms
-Name: 厦门卫视, URL: http://124.94.193.136:9902/tsfile/live/0129_1.m3u8, Date: None, Resolution: None, Response Time: 1303ms
-Name: CCTV5+, URL: https://live.goodiptv.club/api/bestv.php?id=cctv5phd8m/8000000, Date: None, Resolution: None, Response Time: 4102ms
-Name: CCTV5+, URL: https://live.goodiptv.club/api/bestv.php?id=cctv5phd8m/8000000, Date: None, Resolution: None, Response Time: 4108ms
-Name: CCTV11, URL: https://live.goodiptv.club/api/bestv.php?id=cctv11hd8m/8000000, Date: None, Resolution: None, Response Time: 5337ms
-Name: CCTV11, URL: https://live.goodiptv.club/api/bestv.php?id=cctv11hd8m/8000000, Date: None, Resolution: None, Response Time: 5376ms
-Name: CCTV1, URL: https://live.goodiptv.club/api/bestv.php?id=cctv1hd8m/8000000, Date: None, Resolution: None, Response Time: 2985ms
-Name: CCTV1, URL: https://live.goodiptv.club/api/bestv.php?id=cctv1hd8m/8000000, Date: None, Resolution: None, Response Time: 3020ms
-Name: CCTV5, URL: https://live.goodiptv.club/api/bestv.php?id=cctv58m/8000000, Date: None, Resolution: None, Response Time: 3929ms
-Name: CCTV5, URL: https://live.goodiptv.club/api/bestv.php?id=cctv58m/8000000, Date: None, Resolution: None, Response Time: 4004ms
-Name: CCTV2, URL: http://1.29.26.131:5555/udp/239.125.2.65:4120, Date: 08-09-2024, Resolution: 1920x1080, Response Time: 1821ms
-Name: CCTV2, URL: http://xyt.186738613.xyz/lngd.php?id=061&Cf.m3u8, Date: 08-11-2024, Resolution: 1920x1080, Response Time: 4251ms
-Name: CCTV2, URL: http://hlsbkmgsplive.miguvideo.com/wd_r2/cctv/cctv2hd/3000/index.m3u8?&encrypt=, Date: 07-15-2024, Resolution: 1920x1080, Response Time: 4426ms
-Name: CCTV2, URL: http://hlsbkmgsplive.miguvideo.com/migu/kailu/cctv2hd265/55/20200407/index.m3u8?&encrypt=, Date: 07-15-2024, Resolution: 1920x1080, Response Time: 4431ms
-Name: CCTV2, URL: http://61.138.54.155:2233/hls/9/index.m3u8, Date: 06-21-2024, Resolution: 768x576, Response Time: 1802ms
-Name: CCTV2, URL: http://183.184.150.84:8004/rtp/226.0.2.19:8064, Date: 08-08-2024, Resolution: 768x576, Response Time: 1806ms
-Name: CCTV2, URL: http://60.223.90.60:8002/rtp/226.0.2.19:8064, Date: 08-07-2024, Resolution: 768x576, Response Time: 1809ms
-Name: CCTV2, URL: http://171.116.99.10:8085/rtp/226.0.2.19:8064, Date: 08-11-2024, Resolution: 768x576, Response Time: 1814ms
-Name: CCTV2, URL: http://183.184.31.13:8003/rtp/226.0.2.19:8064, Date: 08-10-2024, Resolution: 768x576, Response Time: 1814ms
-Name: CCTV2, URL: http://116.162.6.192/61.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225487/index.m3u8, Date: 08-11-2024, Resolution: 768x576, Response Time: 5299ms
-Name: CCTV2, URL: http://59.44.102.18:8888/newlive/live/hls/3/live.m3u8, Date: 05-30-2024, Resolution: None, Response Time: 1785ms
-Name: CCTV2, URL: https://api.olelive.com/dis/live/CCTV2HD/hls.m3u8, Date: 06-11-2024, Resolution: None, Response Time: 2563ms
-Name: CCTV2, URL: https://live.goodiptv.club/api/bestv.php?id=cctv2hd8m/8000000, Date: None, Resolution: None, Response Time: 3132ms
-Name: CCTV2, URL: https://live.goodiptv.club/api/bestv.php?id=cctv2hd8m/8000000, Date: None, Resolution: None, Response Time: 3172ms
-Name: CCTV2, URL: http://metatvpro.xyz:25461/W1045/4329/394, Date: 07-30-2024, Resolution: None, Response Time: 3605ms
-Name: 东南卫视, URL: http://xyt.186738613.xyz/lngd.php?id=483&Cf.m3u8, Date: 06-20-2024, Resolution: 1920x1080, Response Time: 6727ms
-Name: 东南卫视, URL: http://36.32.174.67:60080/newlive/live/hls/33/live.m3u8, Date: 07-17-2024, Resolution: None, Response Time: 1375ms
-Name: 东南卫视, URL: https://live.goodiptv.club/api/bestv.php?id=dnwshd8m/8000000, Date: None, Resolution: None, Response Time: 6071ms
-Name: 东南卫视, URL: https://live.goodiptv.club/api/bestv.php?id=dnwshd8m/8000000, Date: None, Resolution: None, Response Time: 6506ms
-Name: 东南卫视, URL: http://jxcbn.ws-cdn.gitv.tv/hls/DONGNHD/index.m3u8?gMac=unknown&livodToken=3372ee, Date: 07-15-2024, Resolution: None, Response Time: 6665ms
-Name: CCTV4, URL: http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/playlist.m3u8, Date: None, Resolution: None, Response Time: 1777ms
-Name: CCTV4, URL: https://live.goodiptv.club/api/bestv.php?id=cctv4k/15000000, Date: None, Resolution: None, Response Time: 3924ms
-Name: CCTV4, URL: https://live.goodiptv.club/api/bestv.php?id=cctv4hd8m/8000000, Date: None, Resolution: None, Response Time: 3950ms
-Name: CCTV4, URL: https://live.goodiptv.club/api/bestv.php?id=cctv4hd8m/8000000, Date: None, Resolution: None, Response Time: 3961ms
-Name: CCTV10, URL: http://116.162.6.192/61.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225606/index.m3u8, Date: 08-04-2024, Resolution: 1920x1080, Response Time: 1922ms
-Name: CCTV10, URL: http://xyt.186738613.xyz/lngd.php?id=129&Cf.m3u8, Date: 07-23-2024, Resolution: 1920x1080, Response Time: 5088ms
-Name: CCTV10, URL: http://221.210.64.165:2233/hls/17/index.m3u8, Date: 05-06-2024, Resolution: 768x576, Response Time: 1642ms
-Name: CCTV10, URL: http://59.44.102.18:8888/newlive/live/hls/12/live.m3u8, Date: 05-30-2024, Resolution: None, Response Time: 1634ms
-Name: CCTV10, URL: https://tv.smart-chat.net/iptv.php?id=101500&num=3, Date: 01-03-2024, Resolution: None, Response Time: 4145ms
-Name: CCTV10, URL: https://tv.smart-chat.net/iptv.php?id=101500&num=2, Date: 01-03-2024, Resolution: None, Response Time: 4149ms
-Name: CCTV10, URL: https://tv.smart-chat.net/iptv.php?id=101500&num=1, Date: 01-03-2024, Resolution: None, Response Time: 4208ms
-Name: CCTV10, URL: https://api.olelive.com/dis/live/CCTV10HD/hls.m3u8, Date: 06-11-2024, Resolution: None, Response Time: 4293ms
-Name: CCTV10, URL: https://live.goodiptv.club/api/bestv.php?id=cctv10hd8m/8000000, Date: None, Resolution: None, Response Time: 4693ms
-Name: CCTV10, URL: https://live.goodiptv.club/api/bestv.php?id=cctv10hd8m/8000000, Date: None, Resolution: None, Response Time: 4703ms
-Name: CCTV10, URL: http://cfss.cc/api/ysp/cctv10.m3u8, Date: 12-27-2023, Resolution: None, Response Time: 4857ms
-Name: CCTV10, URL: http://metatvpro.xyz:25461/W1045/4329/403, Date: 07-30-2024, Resolution: None, Response Time: 5415ms
-Name: 重庆卫视, URL: https://live.goodiptv.club/api/bestv.php?id=cqws8m/8000000, Date: None, Resolution: None, Response Time: 6500ms
-Name: 重庆卫视, URL: https://live.goodiptv.club/api/bestv.php?id=cqws8m/8000000, Date: None, Resolution: None, Response Time: 6523ms
-Name: 湖南卫视, URL: https://live.goodiptv.club/api/bestv.php?id=hunanwshd8m/8000000, Date: None, Resolution: None, Response Time: 7671ms
-Name: 湖南卫视, URL: https://live.goodiptv.club/api/bestv.php?id=hunanwshd8m/8000000, Date: None, Resolution: None, Response Time: 8158ms
-Name: 延边卫视, URL: http://124.94.193.136:9902/tsfile/live/1011_1.m3u8, Date: None, Resolution: None, Response Time: 1094ms
-Name: 辽宁卫视, URL: http://118.81.53.140:9999/tsfile/live/0121_1.m3u8, Date: None, Resolution: None, Response Time: 1042ms
-Name: 辽宁卫视, URL: https://live.goodiptv.club/api/bestv.php?id=lnwshd8m/8000000, Date: None, Resolution: None, Response Time: 8259ms
-Name: 辽宁卫视, URL: https://live.goodiptv.club/api/bestv.php?id=lnwshd8m/8000000, Date: None, Resolution: None, Response Time: 8284ms
-Name: 吉林卫视, URL: http://124.94.193.136:9902/tsfile/live/0116_1.m3u8, Date: None, Resolution: None, Response Time: 1692ms
-Name: 吉林卫视, URL: https://live.goodiptv.club/api/bestv.php?id=jlwshd8m/8000000, Date: None, Resolution: None, Response Time: 7689ms
-Name: 吉林卫视, URL: https://live.goodiptv.club/api/bestv.php?id=jlwshd8m/8000000, Date: None, Resolution: None, Response Time: 8140ms
-Name: 海南卫视, URL: https://live.goodiptv.club/api/bestv.php?id=hainanwshd8m/8000000, Date: None, Resolution: None, Response Time: 7643ms
-Name: 海南卫视, URL: https://live.v1.mk/api/bestv.php?id=hainanwshd8m/8000000, Date: 03-21-2023, Resolution: None, Response Time: 7967ms
-Name: 海南卫视, URL: https://live.v1.mk/api/bestv.php?id=hainanwshd8m/8000000, Date: 03-21-2023, Resolution: None, Response Time: 7971ms
-Name: 海南卫视, URL: https://live.v1.mk/api/bestv.php?id=hainanwshd8m/8000000, Date: 03-21-2023, Resolution: None, Response Time: 7997ms
-Name: 海南卫视, URL: https://live.goodiptv.club/api/bestv.php?id=hainanwshd8m/8000000, Date: None, Resolution: None, Response Time: 8087ms
-Name: 江西卫视, URL: https://live.goodiptv.club/api/bestv.php?id=jxws8m/8000000, Date: None, Resolution: None, Response Time: 8141ms
-Name: 江西卫视, URL: https://live.goodiptv.club/api/bestv.php?id=jxws8m/8000000, Date: None, Resolution: None, Response Time: 8143ms
-Name: 江苏卫视, URL: http://222.240.82.92:9901/tsfile/live/0127_1.m3u8, Date: 03-20-2023, Resolution: None, Response Time: 1111ms
-Name: 江苏卫视, URL: http://222.240.82.92:9901/tsfile/live/0127_1.m3u8, Date: 03-20-2023, Resolution: None, Response Time: 1117ms
-Name: 江苏卫视, URL: http://222.240.82.92:9901/tsfile/live/0127_1.m3u8, Date: 03-20-2023, Resolution: None, Response Time: 1123ms
-Name: 江苏卫视, URL: https://live.goodiptv.club/api/bestv.php?id=jswshd8m/8000000, Date: None, Resolution: None, Response Time: 8101ms
-Name: 江苏卫视, URL: https://live.goodiptv.club/api/bestv.php?id=jswshd8m/8000000, Date: None, Resolution: None, Response Time: 8116ms
-Name: 湖北卫视, URL: http://115.149.139.141:10001/tsfile/live/1027_1.m3u8, Date: 03-20-2023, Resolution: None, Response Time: 1051ms
-Name: 湖北卫视, URL: http://115.149.139.141:10001/tsfile/live/1027_1.m3u8, Date: 03-20-2023, Resolution: None, Response Time: 1054ms
-Name: 湖北卫视, URL: http://115.149.139.141:10001/tsfile/live/1027_1.m3u8, Date: 03-20-2023, Resolution: None, Response Time: 1057ms
-Name: 湖北卫视, URL: https://live.goodiptv.club/api/bestv.php?id=hubeiws8m/8000000, Date: None, Resolution: None, Response Time: 8119ms
-Name: 湖北卫视, URL: https://live.goodiptv.club/api/bestv.php?id=hubeiws8m/8000000, Date: None, Resolution: None, Response Time: 8120ms
-Name: 河南卫视, URL: http://124.94.193.136:9902/tsfile/live/0139_1.m3u8, Date: None, Resolution: None, Response Time: 1116ms
-Name: 河南卫视, URL: https://live.goodiptv.club/api/bestv.php?id=hnwshd8m/8000000, Date: None, Resolution: None, Response Time: 7692ms
-Name: 河南卫视, URL: https://live.goodiptv.club/api/bestv.php?id=hnwshd8m/8000000, Date: None, Resolution: None, Response Time: 8152ms
-Name: 黑龙江卫视, URL: https://live.goodiptv.club/api/bestv.php?id=hljwshd8m/8000000, Date: None, Resolution: None, Response Time: 8130ms
-Name: 黑龙江卫视, URL: https://live.goodiptv.club/api/bestv.php?id=hljwshd8m/8000000, Date: None, Resolution: None, Response Time: 8151ms
-Name: 青海卫视, URL: http://124.128.73.58:9901/tsfile/live/0140_1.m3u8, Date: None, Resolution: None, Response Time: 618ms
-Name: 贵州卫视, URL: http://202.100.46.58:9901/tsfile/live/1034_1.m3u8, Date: None, Resolution: None, Response Time: 1155ms
-Name: 贵州卫视, URL: https://live.goodiptv.club/api/bestv.php?id=gzwshd8m/8000000, Date: None, Resolution: None, Response Time: 8105ms
-Name: 贵州卫视, URL: https://live.goodiptv.club/api/bestv.php?id=gzwshd8m/8000000, Date: None, Resolution: None, Response Time: 8118ms
-Name: 兵团卫视, URL: http://218.13.170.98:9901/tsfile/live/0115_1.m3u8, Date: 12-01-2023, Resolution: None, Response Time: 481ms
-Name: 云南卫视, URL: http://124.128.73.58:9901/tsfile/live/0119_1.m3u8, Date: 08-02-2024, Resolution: 1920x1080, Response Time: 689ms
-Name: 云南卫视, URL: http://116.162.6.191/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226063/index.m3u8, Date: 08-11-2024, Resolution: 1920x1080, Response Time: 1160ms
-Name: 云南卫视, URL: http://36.32.174.67:60080/newlive/live/hls/45/live.m3u8, Date: 08-10-2024, Resolution: 720x576, Response Time: 668ms
-Name: 陕西卫视, URL: http://116.162.6.191/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225498/index.m3u8, Date: 06-25-2024, Resolution: 1920x1080, Response Time: 4089ms
-Name: 陕西卫视, URL: http://xyt.186738613.xyz/lngd.php?id=512&Cf.m3u8, Date: 06-29-2024, Resolution: 1920x1080, Response Time: 10347ms
-Name: 陕西卫视, URL: http://36.32.174.67:60080/newlive/live/hls/44/live.m3u8, Date: 07-17-2024, Resolution: None, Response Time: 770ms
-Name: 陕西卫视, URL: http://202.100.46.58:9901/tsfile/live/1017_1.m3u8, Date: None, Resolution: None, Response Time: 806ms
-Name: 陕西卫视, URL: http://xyt.186738613.xyz/lngd.php?id=114&Cf.m3u8, Date: 06-20-2024, Resolution: None, Response Time: 10349ms
-Name: 陕西卫视, URL: http://xxw.me0.cn/api/migu.php?id=22, Date: 04-05-2024, Resolution: None, Response Time: 10402ms
-Name: 宁夏卫视, URL: http://218.13.170.98:9901/tsfile/live/0112_1.m3u8, Date: 12-01-2023, Resolution: None, Response Time: 925ms
-Name: 宁夏卫视, URL: http://36.32.174.67:60080/newlive/live/hls/49/live.m3u8, Date: 07-17-2024, Resolution: None, Response Time: 989ms
-Name: 宁夏卫视, URL: http://xyt.186738613.xyz/lngd.php?id=118&Cf.m3u8, Date: 06-20-2024, Resolution: None, Response Time: 8257ms
-Name: 三沙卫视, URL: http://61.138.128.226:19901/tsfile/live/1020_1.m3u8, Date: 07-22-2024, Resolution: 720x540, Response Time: 523ms
-Name: 东方卫视, URL: http://120.224.178.16:9901/tsfile/live/0122_1.m3u8, Date: 06-23-2024, Resolution: 1920x1080, Response Time: 835ms
-Name: 东方卫视, URL: http://58.41.27.144:18888/udp/239.45.3.146:5140, Date: 07-03-2024, Resolution: 1920x1080, Response Time: 864ms
-Name: 东方卫视, URL: http://hlsbkmgsplive.miguvideo.com/wd_r4/dfl/dongfangwshd/3000/index.m3u8?&encrypt=, Date: 06-17-2024, Resolution: 1920x1080, Response Time: 9854ms
-Name: 东方卫视, URL: http://www.hiliu.myds.me:8088/rtp/239.254.96.142:8926, Date: 08-03-2024, Resolution: 1920x1080, Response Time: 10076ms
-Name: 东方卫视, URL: http://xyt.186738613.xyz/lngd.php?id=093&Cf.m3u8, Date: 06-22-2024, Resolution: 1920x1080, Response Time: 10387ms
-Name: 东方卫视, URL: http://xxw.me0.cn/api/migu.php?id=20, Date: 04-05-2024, Resolution: 1280x720, Response Time: 10486ms
-Name: 东方卫视, URL: http://36.32.174.67:60080/newlive/live/hls/24/live.m3u8, Date: 07-17-2024, Resolution: None, Response Time: 872ms
-Name: 东方卫视, URL: http://59.44.102.18:8888/newlive/live/hls/21/live.m3u8, Date: 05-30-2024, Resolution: None, Response Time: 887ms
-Name: 东方卫视, URL: https://live.goodiptv.club/api/bestv.php?id=dfwshd8m/8000000, Date: None, Resolution: None, Response Time: 9619ms
-Name: 东方卫视, URL: https://live.goodiptv.club/api/bestv.php?id=dfwshd8m/8000000, Date: None, Resolution: None, Response Time: 10077ms
-Name: 山东卫视, URL: https://live.goodiptv.club/api/bestv.php?id=sdws8m/8000000, Date: None, Resolution: None, Response Time: 10082ms
-Name: 山东卫视, URL: https://live.goodiptv.club/api/bestv.php?id=sdws8m/8000000, Date: None, Resolution: None, Response Time: 10113ms
-Name: 山西卫视, URL: http://liveflash.sxrtv.com/live/sxwshd.m3u8?sub_m3u8=true&edge_slice=true, Date: None, Resolution: None, Response Time: 9844ms
-Name: 山西卫视, URL: http://liveflash.sxrtv.com/live/sxwshd.m3u8?sub_m3u8=true&edge_slice=true, Date: None, Resolution: None, Response Time: 10052ms
-Name: 河北卫视, URL: https://live.goodiptv.club/api/bestv.php?id=hbwshd8m/8000000, Date: None, Resolution: None, Response Time: 7718ms
-Name: 河北卫视, URL: https://live.goodiptv.club/api/bestv.php?id=hbwshd8m/8000000, Date: None, Resolution: None, Response Time: 8143ms
+Name: 内蒙卫视, URL: http://58.220.219.14:9901/tsfile/live/0114_1.m3u8?key=txiptv, Date: 06-18-2024, Resolution: 768x576, Response Time: 1383ms
+Name: 江西卫视, URL: https://live.goodiptv.club/api/bestv.php?id=jxws8m/8000000, Date: None, Resolution: None, Response Time: 8927ms
+Name: 江西卫视, URL: https://live.goodiptv.club/api/bestv.php?id=jxws8m/8000000, Date: None, Resolution: None, Response Time: 9942ms
+Name: 东南卫视, URL: https://live.goodiptv.club/api/bestv.php?id=dnwshd8m/8000000, Date: None, Resolution: None, Response Time: 7125ms
+Name: 东南卫视, URL: https://live.goodiptv.club/api/bestv.php?id=dnwshd8m/8000000, Date: None, Resolution: None, Response Time: 7147ms
+Name: 江苏卫视, URL: http://222.240.82.92:9901/tsfile/live/0127_1.m3u8, Date: 03-20-2023, Resolution: None, Response Time: 930ms
+Name: 江苏卫视, URL: http://222.240.82.92:9901/tsfile/live/0127_1.m3u8, Date: 03-20-2023, Resolution: None, Response Time: 932ms
+Name: 江苏卫视, URL: http://222.240.82.92:9901/tsfile/live/0127_1.m3u8, Date: 03-20-2023, Resolution: None, Response Time: 948ms
+Name: 江苏卫视, URL: https://live.goodiptv.club/api/bestv.php?id=jswshd8m/8000000, Date: None, Resolution: None, Response Time: 8925ms
+Name: 江苏卫视, URL: https://live.goodiptv.club/api/bestv.php?id=jswshd8m/8000000, Date: None, Resolution: None, Response Time: 8937ms
+Name: 重庆卫视, URL: https://live.goodiptv.club/api/bestv.php?id=cqws8m/8000000, Date: None, Resolution: None, Response Time: 7125ms
+Name: 重庆卫视, URL: https://live.goodiptv.club/api/bestv.php?id=cqws8m/8000000, Date: None, Resolution: None, Response Time: 7125ms
+Name: CCTV12, URL: https://live.goodiptv.club/api/bestv.php?id=cctv12hd8m/8000000, Date: None, Resolution: None, Response Time: 5862ms
+Name: CCTV12, URL: https://live.goodiptv.club/api/bestv.php?id=cctv12hd8m/8000000, Date: None, Resolution: None, Response Time: 5870ms
+Name: 卡酷少儿, URL: https://live.goodiptv.club/api/bestv.php?id=kkse8m/8000000, Date: None, Resolution: None, Response Time: 7136ms
+Name: 卡酷少儿, URL: https://live.goodiptv.club/api/bestv.php?id=kkse8m/8000000, Date: None, Resolution: None, Response Time: 7142ms
+Name: 北京卫视, URL: http://124.128.73.58:9901/tsfile/live/0122_1.m3u8, Date: None, Resolution: None, Response Time: 1309ms
+Name: 北京卫视, URL: http://222.240.82.92:9901/tsfile/live/0122_1.m3u8, Date: 03-20-2023, Resolution: None, Response Time: 1336ms
+Name: 北京卫视, URL: http://222.240.82.92:9901/tsfile/live/0122_1.m3u8, Date: 03-20-2023, Resolution: None, Response Time: 1338ms
+Name: 北京卫视, URL: http://222.240.82.92:9901/tsfile/live/0122_1.m3u8, Date: 03-20-2023, Resolution: None, Response Time: 1358ms
+Name: 北京卫视, URL: https://live.goodiptv.club/api/bestv.php?id=bjwshd8m/8000000, Date: None, Resolution: None, Response Time: 6638ms
+Name: 北京卫视, URL: https://live.goodiptv.club/api/bestv.php?id=bjwshd8m/8000000, Date: None, Resolution: None, Response Time: 7136ms
+Name: 安徽卫视, URL: http://115.149.139.141:10001/tsfile/live/1025_1.m3u8, Date: 03-20-2023, Resolution: None, Response Time: 1265ms
+Name: 安徽卫视, URL: http://115.149.139.141:10001/tsfile/live/1025_1.m3u8, Date: 03-20-2023, Resolution: None, Response Time: 1275ms
+Name: 安徽卫视, URL: https://live.goodiptv.club/api/bestv.php?id=ahwshd8m/8000000, Date: None, Resolution: None, Response Time: 7145ms
+Name: 安徽卫视, URL: https://live.goodiptv.club/api/bestv.php?id=ahwshd8m/8000000, Date: None, Resolution: None, Response Time: 7164ms
+Name: CCTV2, URL: https://live.goodiptv.club/api/bestv.php?id=cctv2hd8m/8000000, Date: None, Resolution: None, Response Time: 3477ms
+Name: CCTV2, URL: https://live.goodiptv.club/api/bestv.php?id=cctv2hd8m/8000000, Date: None, Resolution: None, Response Time: 3488ms
+Name: CCTV11, URL: https://live.goodiptv.club/api/bestv.php?id=cctv11hd8m/8000000, Date: None, Resolution: None, Response Time: 5265ms
+Name: CCTV11, URL: https://live.goodiptv.club/api/bestv.php?id=cctv11hd8m/8000000, Date: None, Resolution: None, Response Time: 5788ms
+Name: 湖南卫视, URL: http://121.24.98.185:8090/hls/56/index.m3u8, Date: 04-02-2024, Resolution: 1920x1080, Response Time: 927ms
+Name: 湖南卫视, URL: http://124.128.73.58:9901/tsfile/live/0128_1.m3u8, Date: 08-02-2024, Resolution: 1920x1080, Response Time: 985ms
+Name: 湖南卫视, URL: http://218.3.138.25:1111/tsfile/live/1018_1.m3u8, Date: 08-13-2024, Resolution: 1920x1080, Response Time: 992ms
+Name: 湖南卫视, URL: http://222.241.154.37:9901/tsfile/live/23019_1.m3u8, Date: 06-14-2024, Resolution: 1920x1080, Response Time: 1107ms
+Name: 湖南卫视, URL: http://116.162.6.191/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225506/index.m3u8, Date: 08-13-2024, Resolution: 1920x1080, Response Time: 1416ms
+Name: 湖南卫视, URL: http://www.hiliu.myds.me:8088/rtp/239.254.96.139:8908, Date: 08-02-2024, Resolution: 1920x1080, Response Time: 7911ms
+Name: 湖南卫视, URL: http://jxcbn.ws-cdn.gitv.tv/hls/HUNANHD/index.m3u8?gMac=unknown&livodToken=3372ee, Date: 07-18-2024, Resolution: 1920x1080, Response Time: 8646ms
+Name: 湖南卫视, URL: http://xyt.186738613.xyz/lngd.php?id=086&Cf.m3u8, Date: 07-04-2024, Resolution: 1920x1080, Response Time: 8719ms
+Name: 湖南卫视, URL: http://antvlive.ab5c6921.cdnviet.com/antv/playlist.m3u8, Date: 08-12-2024, Resolution: 1047x576, Response Time: 8196ms
+Name: 湖南卫视, URL: http://1.24.190.98:10080/hls/60/index.m3u8, Date: 07-31-2024, Resolution: 768x576, Response Time: 985ms
+Name: 湖南卫视, URL: http://59.44.102.18:8888/newlive/live/hls/24/live.m3u8, Date: 05-30-2024, Resolution: None, Response Time: 955ms
+Name: 湖南卫视, URL: https://live.goodiptv.club/api/bestv.php?id=hunanwshd8m/8000000, Date: None, Resolution: None, Response Time: 7759ms
+Name: 湖南卫视, URL: https://live.goodiptv.club/api/bestv.php?id=hunanwshd8m/8000000, Date: None, Resolution: None, Response Time: 8253ms
+Name: 湖南卫视, URL: http://metatvpro.xyz:25461/W1045/4329/411, Date: 07-30-2024, Resolution: None, Response Time: 8983ms
+Name: 湖南卫视, URL: http://xxw.me0.cn/api/migu.php?id=25, Date: 04-05-2024, Resolution: None, Response Time: 8999ms
+Name: 湖北卫视, URL: http://115.149.139.141:10001/tsfile/live/1027_1.m3u8, Date: 03-20-2023, Resolution: None, Response Time: 1009ms
+Name: 湖北卫视, URL: http://115.149.139.141:10001/tsfile/live/1027_1.m3u8, Date: 03-20-2023, Resolution: None, Response Time: 1010ms
+Name: 湖北卫视, URL: https://live.goodiptv.club/api/bestv.php?id=hubeiws8m/8000000, Date: None, Resolution: None, Response Time: 7764ms
+Name: 湖北卫视, URL: https://live.goodiptv.club/api/bestv.php?id=hubeiws8m/8000000, Date: None, Resolution: None, Response Time: 8245ms
+Name: 河南卫视, URL: http://124.94.193.136:9902/tsfile/live/0139_1.m3u8, Date: None, Resolution: None, Response Time: 1055ms
+Name: 河南卫视, URL: https://live.goodiptv.club/api/bestv.php?id=hnwshd8m/8000000, Date: None, Resolution: None, Response Time: 7764ms
+Name: 河南卫视, URL: https://live.goodiptv.club/api/bestv.php?id=hnwshd8m/8000000, Date: None, Resolution: None, Response Time: 8279ms
+Name: CCTV17, URL: http://59.44.102.18:8888/newlive/live/hls/19/live.m3u8, Date: 06-17-2024, Resolution: 1920x1080, Response Time: 1335ms
+Name: CCTV17, URL: http://116.162.6.192/61.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225608/index.m3u8, Date: 08-03-2024, Resolution: 1920x1080, Response Time: 1717ms
+Name: CCTV17, URL: http://xyt.186738613.xyz/lngd.php?id=204&Cf.m3u8, Date: 06-27-2024, Resolution: 1920x1080, Response Time: 6853ms
+Name: CCTV17, URL: http://159.75.85.63:5678/zb.php?id=douyin, Date: 02-24-2024, Resolution: None, Response Time: 1762ms
+Name: CCTV17, URL: https://api.olelive.com/dis/live/CCTV17HD/hls.m3u8, Date: 06-11-2024, Resolution: None, Response Time: 5773ms
+Name: CCTV17, URL: https://live.goodiptv.club/api/bestv.php?id=cctv17hd8m/8000000, Date: None, Resolution: None, Response Time: 6213ms
+Name: CCTV17, URL: https://live.goodiptv.club/api/bestv.php?id=cctv17hd8m/8000000, Date: None, Resolution: None, Response Time: 6954ms
+Name: CCTV10, URL: https://live.goodiptv.club/api/bestv.php?id=cctv10hd8m/8000000, Date: None, Resolution: None, Response Time: 5716ms
+Name: CCTV10, URL: https://live.goodiptv.club/api/bestv.php?id=cctv10hd8m/8000000, Date: None, Resolution: None, Response Time: 5740ms
+Name: CCTV4, URL: http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/playlist.m3u8, Date: None, Resolution: None, Response Time: 1727ms
+Name: CCTV4, URL: https://live.goodiptv.club/api/bestv.php?id=cctv4k/15000000, Date: None, Resolution: None, Response Time: 3437ms
+Name: CCTV4, URL: https://live.goodiptv.club/api/bestv.php?id=cctv4hd8m/8000000, Date: None, Resolution: None, Response Time: 3453ms
+Name: CCTV4, URL: https://live.goodiptv.club/api/bestv.php?id=cctv4hd8m/8000000, Date: None, Resolution: None, Response Time: 3478ms
+Name: 黑龙江卫视, URL: https://live.goodiptv.club/api/bestv.php?id=hljwshd8m/8000000, Date: None, Resolution: None, Response Time: 7768ms
+Name: 黑龙江卫视, URL: https://live.goodiptv.club/api/bestv.php?id=hljwshd8m/8000000, Date: None, Resolution: None, Response Time: 8504ms
+Name: 河北卫视, URL: https://live.goodiptv.club/api/bestv.php?id=hbwshd8m/8000000, Date: None, Resolution: None, Response Time: 8301ms
+Name: 河北卫视, URL: https://live.goodiptv.club/api/bestv.php?id=hbwshd8m/8000000, Date: None, Resolution: None, Response Time: 9290ms
+Name: CCTV9, URL: https://live.goodiptv.club/api/bestv.php?id=cctv9hd8m/8000000, Date: None, Resolution: None, Response Time: 5705ms
+Name: CCTV9, URL: https://live.goodiptv.club/api/bestv.php?id=cctv9hd8m/8000000, Date: None, Resolution: None, Response Time: 5722ms
+Name: CCTV8, URL: https://live.goodiptv.club/api/bestv.php?id=cctv8hd8m/8000000, Date: None, Resolution: None, Response Time: 5407ms
+Name: CCTV8, URL: https://live.v1.mk/api/ghyx.php?id=CCTV8HD_6000, Date: 03-21-2023, Resolution: None, Response Time: 5438ms
+Name: CCTV8, URL: https://live.v1.mk/api/ghyx.php?id=CCTV8HD_6000, Date: 03-21-2023, Resolution: None, Response Time: 5463ms
+Name: CCTV8, URL: https://live.v1.mk/api/ghyx.php?id=CCTV8HD_6000, Date: 03-21-2023, Resolution: None, Response Time: 5478ms
+Name: CCTV8, URL: https://live.goodiptv.club/api/bestv.php?id=cctv8hd8m/8000000, Date: None, Resolution: None, Response Time: 5583ms
+Name: CCTV6, URL: http://202.100.46.58:9901/tsfile/live/1005_1.m3u8, Date: None, Resolution: None, Response Time: 1624ms
+Name: CCTV6, URL: https://live.goodiptv.club/api/bestv.php?id=cctv6hd8m/8000000, Date: None, Resolution: None, Response Time: 3453ms
+Name: CCTV6, URL: https://live.goodiptv.club/api/bestv.php?id=cctv6hd8m/8000000, Date: None, Resolution: None, Response Time: 3464ms
+Name: CCTV6, URL: https://live.v1.mk/api/bestv.php?id=cctv6hd8m/8000000, Date: 03-21-2023, Resolution: None, Response Time: 3777ms
+Name: CCTV6, URL: https://live.v1.mk/api/bestv.php?id=cctv6hd8m/8000000, Date: 03-21-2023, Resolution: None, Response Time: 3789ms
+Name: CCTV6, URL: https://live.v1.mk/api/bestv.php?id=cctv6hd8m/8000000, Date: 03-21-2023, Resolution: None, Response Time: 3794ms
+Name: 海南卫视, URL: http://58.48.37.158:1111/tsfile/live/1007_1.m3u8, Date: 08-06-2024, Resolution: 1920x1080, Response Time: 1122ms
+Name: 海南卫视, URL: http://36.32.174.67:60080/newlive/live/hls/46/live.m3u8, Date: 07-17-2024, Resolution: None, Response Time: 1108ms
+Name: 海南卫视, URL: https://tv.smart-chat.net/iptv.php?id=201000&num=1, Date: 01-03-2024, Resolution: None, Response Time: 7063ms
+Name: 海南卫视, URL: https://tv.smart-chat.net/iptv.php?id=201000&num=3, Date: 01-03-2024, Resolution: None, Response Time: 7073ms
+Name: 海南卫视, URL: https://tv.smart-chat.net/iptv.php?id=201000&num=2, Date: 01-03-2024, Resolution: None, Response Time: 7079ms
+Name: 海南卫视, URL: https://live.goodiptv.club/api/bestv.php?id=hainanwshd8m/8000000, Date: None, Resolution: None, Response Time: 7299ms
+Name: 海南卫视, URL: https://live.goodiptv.club/api/bestv.php?id=hainanwshd8m/8000000, Date: None, Resolution: None, Response Time: 7305ms
+Name: 海南卫视, URL: http://xyt.186738613.xyz/lngd.php?id=473&Cf.m3u8, Date: 06-20-2024, Resolution: None, Response Time: 7888ms
+Name: 海南卫视, URL: http://jxcbn.ws-cdn.gitv.tv/hls/HAINHD/index.m3u8?gMac=unknown&livodToken=3372ee, Date: 07-15-2024, Resolution: None, Response Time: 7965ms
+Name: 海南卫视, URL: http://iptv.10086.fund:23334/PLTV/88888888/224/3221227139/index.m3u8, Date: 06-05-2024, Resolution: None, Response Time: 8075ms
+Name: 贵州卫视, URL: http://202.100.46.58:9901/tsfile/live/1034_1.m3u8, Date: None, Resolution: None, Response Time: 1148ms
+Name: 贵州卫视, URL: https://live.goodiptv.club/api/bestv.php?id=gzwshd8m/8000000, Date: None, Resolution: None, Response Time: 6809ms
+Name: 贵州卫视, URL: https://live.goodiptv.club/api/bestv.php?id=gzwshd8m/8000000, Date: None, Resolution: None, Response Time: 7334ms
+Name: CCTV16, URL: http://116.162.6.192/61.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226095/index.m3u8, Date: 08-11-2024, Resolution: 1920x1080, Response Time: 1420ms
+Name: CCTV16, URL: http://59.44.102.18:8888/newlive/live/hls/18/live.m3u8, Date: 07-29-2024, Resolution: 1920x1080, Response Time: 1446ms
+Name: CCTV16, URL: http://123.189.36.155:9901/tsfile/live/1027_1.m3u8, Date: None, Resolution: None, Response Time: 1448ms
+Name: CCTV16, URL: https://api.olelive.com/dis/live/CCTV16HD/hls.m3u8, Date: 06-11-2024, Resolution: None, Response Time: 5185ms
+Name: CCTV16, URL: https://tv.smart-chat.net/iptv.php?id=102100&num=1, Date: 01-03-2024, Resolution: None, Response Time: 5186ms
+Name: CCTV16, URL: https://live.goodiptv.club/api/bestv.php?id=cctv16hd8m/8000000, Date: None, Resolution: None, Response Time: 5665ms
+Name: CCTV16, URL: https://live.goodiptv.club/api/bestv.php?id=cctv16hd8m/8000000, Date: None, Resolution: None, Response Time: 6168ms
+Name: CCTV16, URL: http://cfss.cc/api/ysp/cctv16.m3u8, Date: 12-27-2023, Resolution: None, Response Time: 6242ms
+Name: CCTV16, URL: https://live.goodiptv.club/api/bestv.php?id=cctv16hd8m/8000000, Date: 12-09-2023, Resolution: None, Response Time: 6465ms
+Name: CCTV16, URL: http://gmxw.7766.org:808/hls/169/index.m3u8, Date: 11-03-2023, Resolution: None, Response Time: 6662ms
+Name: 广西卫视, URL: https://live.goodiptv.club/api/bestv.php?id=gxwshd8m/8000000, Date: None, Resolution: None, Response Time: 7323ms
+Name: 广西卫视, URL: https://live.goodiptv.club/api/bestv.php?id=gxwshd8m/8000000, Date: None, Resolution: None, Response Time: 7326ms
+Name: CCTV5+, URL: https://live.goodiptv.club/api/bestv.php?id=cctv5phd8m/8000000, Date: None, Resolution: None, Response Time: 3428ms
+Name: CCTV5+, URL: https://live.goodiptv.club/api/bestv.php?id=cctv5phd8m/8000000, Date: None, Resolution: None, Response Time: 3449ms
+Name: CCTV1, URL: https://live.goodiptv.club/api/bestv.php?id=cctv1hd8m/8000000, Date: None, Resolution: None, Response Time: 2705ms
+Name: CCTV1, URL: https://live.goodiptv.club/api/bestv.php?id=cctv1hd8m/8000000, Date: None, Resolution: None, Response Time: 2718ms
+Name: CCTV15, URL: https://live.goodiptv.club/api/bestv.php?id=cctv15hd8m/8000000, Date: None, Resolution: None, Response Time: 6113ms
+Name: CCTV15, URL: https://live.goodiptv.club/api/bestv.php?id=cctv15hd8m/8000000, Date: None, Resolution: None, Response Time: 6118ms
+Name: 南方卫视, URL: http://www.zzlag.top:9087/tsfile/live/1041_1.m3u8?key=txiptv, Date: 06-25-2024, Resolution: 1920x1080, Response Time: 6816ms
+Name: 南方卫视, URL: http://113.101.119.31:808/hls/109/index.m3u8, Date: 07-20-2024, Resolution: 786x576, Response Time: 1178ms
+Name: 南方卫视, URL: http://hlsbkmgsplive.miguvideo.com/wd_r3/2018/nfmedia/nfws/1000/index.m3u8?&encrypt=, Date: 08-09-2024, Resolution: 854x480, Response Time: 6452ms
+Name: 南方卫视, URL: http://hlsbkmgsplive.miguvideo.com/wd_r3/2018/nfmedia/nfws/350/index.m3u8?&encrypt=, Date: 11-28-2023, Resolution: None, Response Time: 6560ms
+Name: 深圳卫视, URL: https://live.goodiptv.club/api/bestv.php?id=szwshd8m/8000000, Date: None, Resolution: None, Response Time: 6626ms
+Name: 深圳卫视, URL: https://live.goodiptv.club/api/bestv.php?id=szwshd8m/8000000, Date: None, Resolution: None, Response Time: 7111ms
+Name: CCTV3, URL: https://live.goodiptv.club/api/bestv.php?id=cctv38m/8000000, Date: None, Resolution: None, Response Time: 3460ms
+Name: CCTV3, URL: https://live.goodiptv.club/api/bestv.php?id=cctv38m/8000000, Date: None, Resolution: None, Response Time: 3477ms
+Name: 广东卫视, URL: http://124.94.193.136:9902/tsfile/live/0125_1.m3u8, Date: None, Resolution: None, Response Time: 1217ms
+Name: 广东卫视, URL: https://live.goodiptv.club/api/bestv.php?id=gdwshd8m/8000000, Date: None, Resolution: None, Response Time: 6626ms
+Name: 广东卫视, URL: https://live.goodiptv.club/api/bestv.php?id=gdwshd8m/8000000, Date: None, Resolution: None, Response Time: 6629ms
+Name: CCTV5, URL: https://live.goodiptv.club/api/bestv.php?id=cctv58m/8000000, Date: None, Resolution: None, Response Time: 3437ms
+Name: CCTV14, URL: https://live.goodiptv.club/api/bestv.php?id=cctvsehd8m/8000000, Date: None, Resolution: None, Response Time: 6027ms
+Name: CCTV14, URL: https://live.goodiptv.club/api/bestv.php?id=cctvsehd8m/8000000, Date: None, Resolution: None, Response Time: 6052ms
+Name: CCTV7, URL: http://58.48.37.158:1111/tsfile/live/0007_1.m3u8, Date: 08-04-2024, Resolution: 1920x1080, Response Time: 1600ms
+Name: CCTV7, URL: https://api.olelive.com/dis/live/CCTV7HD/hls.m3u8, Date: 07-30-2024, Resolution: 1920x1080, Response Time: 3686ms
+Name: CCTV7, URL: http://xyt.186738613.xyz/lngd.php?id=127&Cf.m3u8, Date: 08-05-2024, Resolution: 1920x1080, Response Time: 5410ms
+Name: CCTV7, URL: http://hlsbkmgsplive.miguvideo.com/migu/kailu/20200324/cctv7hd/57/index.m3u8?&encrypt=, Date: 07-14-2024, Resolution: 1920x1080, Response Time: 5861ms
+Name: CCTV7, URL: http://116.162.6.192/61.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225496/index.m3u8, Date: 07-29-2024, Resolution: 768x576, Response Time: 2058ms
+Name: CCTV7, URL: http://121.18.43.254:10000/hls/7/index.m3u8, Date: 02-07-2024, Resolution: None, Response Time: 1546ms
+Name: CCTV7, URL: http://59.44.102.18:8888/newlive/live/hls/9/live.m3u8, Date: 05-30-2024, Resolution: None, Response Time: 1602ms
+Name: CCTV7, URL: https://live.goodiptv.club/api/bestv.php?id=cctv7hd8m/8000000, Date: None, Resolution: None, Response Time: 3876ms
+Name: CCTV7, URL: https://live.goodiptv.club/api/bestv.php?id=cctv7hd8m/8000000, Date: None, Resolution: None, Response Time: 3890ms
+Name: CCTV7, URL: https://tv.smart-chat.net/iptv.php?id=101100&num=1, Date: 01-03-2024, Resolution: None, Response Time: 4211ms
+Name: CCTV7, URL: http://metatvpro.xyz:25461/W1045/4329/400, Date: 07-30-2024, Resolution: None, Response Time: 4340ms
+Name: 甘肃卫视, URL: http://202.100.46.58:9901/tsfile/live/1035_1.m3u8, Date: None, Resolution: None, Response Time: 1224ms
+Name: 甘肃卫视, URL: http://222.240.82.92:9901/tsfile/live/0141_1.m3u8, Date: 03-20-2023, Resolution: None, Response Time: 1280ms
+Name: 甘肃卫视, URL: http://222.240.82.92:9901/tsfile/live/0141_1.m3u8, Date: 03-20-2023, Resolution: None, Response Time: 1287ms
+Name: 甘肃卫视, URL: http://222.240.82.92:9901/tsfile/live/0141_1.m3u8, Date: 03-20-2023, Resolution: None, Response Time: 1291ms
+Name: 甘肃卫视, URL: https://live.goodiptv.club/api/bestv.php?id=gswshd8m/8000000, Date: None, Resolution: None, Response Time: 7148ms
+Name: 甘肃卫视, URL: https://live.goodiptv.club/api/bestv.php?id=gswshd8m/8000000, Date: None, Resolution: None, Response Time: 7151ms
+Name: CCTV13, URL: https://live.goodiptv.club/api/bestv.php?id=cctv13xwhd8m/8000000, Date: None, Resolution: None, Response Time: 5851ms
+Name: CCTV13, URL: https://live.goodiptv.club/api/bestv.php?id=cctv13xwhd8m/8000000, Date: None, Resolution: None, Response Time: 5867ms
+Name: 厦门卫视, URL: http://124.94.193.136:9902/tsfile/live/0129_1.m3u8, Date: None, Resolution: None, Response Time: 1237ms
+Name: 延边卫视, URL: http://124.94.193.136:9902/tsfile/live/1011_1.m3u8, Date: None, Resolution: None, Response Time: 590ms
+Name: 青海卫视, URL: http://124.128.73.58:9901/tsfile/live/0140_1.m3u8, Date: None, Resolution: None, Response Time: 578ms
+Name: 浙江卫视, URL: http://219.159.147.195:9901/tsfile/live/1025_1.m3u8, Date: 06-02-2024, Resolution: 1920x1080, Response Time: 567ms
+Name: 浙江卫视, URL: http://123.54.171.19:808/hls/61/index.m3u8, Date: 08-13-2024, Resolution: 1920x1080, Response Time: 607ms
+Name: 浙江卫视, URL: http://jxcbn.ws-cdn.gitv.tv/hls/ZHEJHD/index.m3u8?gMac=unknown&livodToken=3372ee, Date: 07-29-2024, Resolution: 1920x1080, Response Time: 10476ms
+Name: 浙江卫视, URL: http://xyt.186738613.xyz/lngd.php?id=094&Cf.m3u8, Date: 06-24-2024, Resolution: 1920x1080, Response Time: 10508ms
+Name: 浙江卫视, URL: http://www.dsmcloud.top:8888/udp/239.81.0.31:4056, Date: 08-08-2024, Resolution: 720x576, Response Time: 10467ms
+Name: 浙江卫视, URL: http://14.29.76.30:9901/tsfile/live/0124_1.m3u8, Date: 03-07-2024, Resolution: None, Response Time: 518ms
+Name: 浙江卫视, URL: http://36.32.174.67:60080/newlive/live/hls/23/live.m3u8, Date: 07-17-2024, Resolution: None, Response Time: 580ms
+Name: 浙江卫视, URL: http://59.44.102.18:8888/newlive/live/hls/36/live.m3u8, Date: 05-30-2024, Resolution: None, Response Time: 585ms
+Name: 浙江卫视, URL: https://live.goodiptv.club/api/bestv.php?id=zjwshd8m/8000000, Date: None, Resolution: None, Response Time: 10048ms
+Name: 浙江卫视, URL: https://live.goodiptv.club/api/bestv.php?id=zjwshd8m/8000000, Date: None, Resolution: None, Response Time: 10062ms
+Name: 浙江卫视, URL: https://tv.smart-chat.net/iptv.php?id=200200&num=1, Date: 01-03-2024, Resolution: None, Response Time: 10318ms
+Name: 浙江卫视, URL: https://tv.smart-chat.net/iptv.php?id=200200&num=2, Date: 01-03-2024, Resolution: None, Response Time: 10339ms
+Name: 浙江卫视, URL: https://tv.smart-chat.net/iptv.php?id=200200&num=3, Date: 01-03-2024, Resolution: None, Response Time: 10352ms
+Name: 云南卫视, URL: https://live.goodiptv.club/api/bestv.php?id=ynwshd8m/8000000, Date: None, Resolution: None, Response Time: 9929ms
+Name: 云南卫视, URL: https://live.goodiptv.club/api/bestv.php?id=ynwshd8m/8000000, Date: None, Resolution: None, Response Time: 10416ms
+Name: 天津卫视, URL: https://live.goodiptv.club/api/bestv.php?id=tjwshd8m/8000000, Date: None, Resolution: None, Response Time: 10353ms
+Name: 天津卫视, URL: https://live.goodiptv.club/api/bestv.php?id=tjwshd8m/8000000, Date: None, Resolution: None, Response Time: 10360ms
+Name: 四川卫视, URL: https://live.goodiptv.club/api/bestv.php?id=scwshd/8000000, Date: None, Resolution: None, Response Time: 9855ms
+Name: 四川卫视, URL: https://live.goodiptv.club/api/bestv.php?id=scwshd/8000000, Date: None, Resolution: None, Response Time: 10354ms
+Name: 陕西卫视, URL: http://202.100.46.58:9901/tsfile/live/1017_1.m3u8, Date: None, Resolution: None, Response Time: 666ms
+Name: 哈哈炫动, URL: http://jxcbn.ws-cdn.gitv.tv/hls/XDKT/index.m3u8?gMac=unknown&livodToken=3372ee, Date: 07-15-2024, Resolution: None, Response Time: 10191ms
+Name: 东方卫视, URL: http://120.224.178.16:9901/tsfile/live/0122_1.m3u8, Date: 06-23-2024, Resolution: 1920x1080, Response Time: 731ms
+Name: 东方卫视, URL: http://58.41.27.144:18888/udp/239.45.3.146:5140, Date: 07-03-2024, Resolution: 1920x1080, Response Time: 755ms
+Name: 东方卫视, URL: http://www.hiliu.myds.me:8088/rtp/239.254.96.142:8926, Date: 08-03-2024, Resolution: 1920x1080, Response Time: 9222ms
+Name: 东方卫视, URL: http://hlsbkmgsplive.miguvideo.com/wd_r4/dfl/dongfangwshd/3000/index.m3u8?&encrypt=, Date: 06-17-2024, Resolution: 1920x1080, Response Time: 9386ms
+Name: 东方卫视, URL: http://jxcbn.ws-cdn.gitv.tv/hls/DONGFHD/index.m3u8?gMac=unknown&livodToken=3372ee, Date: 08-13-2024, Resolution: 1920x1080, Response Time: 9579ms
+Name: 东方卫视, URL: http://xyt.186738613.xyz/lngd.php?id=093&Cf.m3u8, Date: 06-22-2024, Resolution: 1920x1080, Response Time: 10177ms
+Name: 东方卫视, URL: http://xxw.me0.cn/api/migu.php?id=20, Date: 04-05-2024, Resolution: 1280x720, Response Time: 9544ms
+Name: 东方卫视, URL: http://36.32.174.67:60080/newlive/live/hls/24/live.m3u8, Date: 07-17-2024, Resolution: None, Response Time: 763ms
+Name: 东方卫视, URL: http://59.44.102.18:8888/newlive/live/hls/21/live.m3u8, Date: 05-30-2024, Resolution: None, Response Time: 768ms
+Name: 东方卫视, URL: https://live.goodiptv.club/api/bestv.php?id=dfwshd8m/8000000, Date: None, Resolution: None, Response Time: 9169ms
+Name: 东方卫视, URL: https://live.goodiptv.club/api/bestv.php?id=dfwshd8m/8000000, Date: None, Resolution: None, Response Time: 9678ms
+Name: 东方卫视, URL: http://metatvpro.xyz:25461/W1045/4329/428, Date: 07-30-2024, Resolution: None, Response Time: 10281ms
+Name: 山东卫视, URL: https://live.goodiptv.club/api/bestv.php?id=sdws8m/8000000, Date: None, Resolution: None, Response Time: 9686ms
+Name: 山东卫视, URL: https://live.goodiptv.club/api/bestv.php?id=sdws8m/8000000, Date: None, Resolution: None, Response Time: 9720ms
+Name: 山西卫视, URL: http://liveflash.sxrtv.com/live/sxwshd.m3u8?sub_m3u8=true&edge_slice=true, Date: None, Resolution: None, Response Time: 9432ms
+Name: 山西卫视, URL: http://liveflash.sxrtv.com/live/sxwshd.m3u8?sub_m3u8=true&edge_slice=true, Date: None, Resolution: None, Response Time: 9439ms
+Name: 辽宁卫视, URL: http://118.81.53.140:9999/tsfile/live/0121_1.m3u8, Date: None, Resolution: None, Response Time: 839ms
+Name: 辽宁卫视, URL: https://live.goodiptv.club/api/bestv.php?id=lnwshd8m/8000000, Date: None, Resolution: None, Response Time: 8526ms
+Name: 辽宁卫视, URL: https://live.goodiptv.club/api/bestv.php?id=lnwshd8m/8000000, Date: None, Resolution: None, Response Time: 8527ms
+Name: 吉林卫视, URL: http://124.94.193.136:9902/tsfile/live/0116_1.m3u8, Date: None, Resolution: None, Response Time: 885ms
+Name: 吉林卫视, URL: https://live.goodiptv.club/api/bestv.php?id=jlwshd8m/8000000, Date: None, Resolution: None, Response Time: 8520ms
+Name: 吉林卫视, URL: https://live.goodiptv.club/api/bestv.php?id=jlwshd8m/8000000, Date: None, Resolution: None, Response Time: 9022ms
